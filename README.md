@@ -13,27 +13,27 @@ Our datasets include 8,257 tweet and image pairs. We split the dataset into thre
 
 We set an image id for each picture, and we put this image id in the begging of a tweet. We use a blank line to split a sample. Here's an example of such a file:
 
-IMGID:50447＜/br＞
-RT	O＜/br＞
-@washingtonpost	O＜/br＞
-:	O＜/br＞
-Two	O＜/br＞
-maps	O＜/br＞
-that	O＜/br＞
-show	O＜/br＞
-the	O＜/br＞
-shocking	O＜/br＞
-inequality	O＜/br＞
-in	O＜/br＞
-Baltimore	B-LOC＜/br＞
-http://t.co/FssPdKxglv	O＜/br＞
-http://t.co/JZiqXSTNec	O＜/br＞
+IMGID:50447     
+RT	O        
+@washingtonpost	O        
+:	O        
+Two	O        
+maps	O        
+that	O        
+show	O        
+the	O        
+shocking	O        
+inequality	O        
+in	O        
+Baltimore	B-LOC        
+http://t.co/FssPdKxglv	        
+http://t.co/JZiqXSTNec        
 
-IMGID:418340＜/br＞
-Rep	O＜/br＞
-.	O＜/br＞
-Howard	B-PER＜/br＞
-Coble	I-PER＜/br＞
+IMGID:418340        
+Rep	O        
+.	O        
+Howard	B-PER        
+Coble	I-PER        
 
 ## 4. Usage
 1) Extracting the image features:
