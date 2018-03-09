@@ -51,4 +51,4 @@ If you find the implementation or datasets useful, please cite the following pap
   author={Zhang, Qi and Fu, Jinlan and Liu, Xiaoyu and Huang, Xuanjing},
   year={2018}
   publisher={AAAI}
-}
+}.
